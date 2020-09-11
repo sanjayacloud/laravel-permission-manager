@@ -191,7 +191,7 @@
             Version V.01
         </div>
         <!-- Default to the left -->
-        <strong>Copyright &copy; 2020 <a href="https://theyakalabs.com">The Yaka Labs</a>.</strong> All rights reserved.
+        <strong>Copyright &copy; 2020 <a href="https://indeeditsolutions.lk">Indeed IT Solutions</a>.</strong> All rights reserved.
     </footer>
 </div>
 <!-- ./wrapper -->

@@ -3,4 +3,4 @@
 
 ## Setup and instralation
 
-- [Instrallation Guidlines](https://www.sltech.club/single/laravel-spatie-permission-manager-with-admin-lte-3).
+- [Instrallation Guidlines](http://codebuddy.work/single/laravel-spatie-permission-manager-with-admin-lte-3).
